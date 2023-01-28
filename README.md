@@ -4,6 +4,8 @@ Discord link : https://discord.gg/mt4dUxXryh
 
 iOS : https://mega.nz/file/x5MnUarQ#uyOo1KFtB-GWmtTV9c8CEHE2swtG8EVddJnxXdBMLU8
 
+Second link (fix crash on non-jb device but can't play alongside Brawl Stars, need to delete bs to play) : https://mega.nz/file/UgM02BjB#ffctMG9YrRpXDr-ZdekR-TE3Gs7Gf6IsDsuQwSo1KFU 
+
 ## Requirements: ##
 1. a brain...
 
