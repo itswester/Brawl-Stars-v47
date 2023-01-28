@@ -199,7 +199,7 @@ static int randombytes_js_randombytes_nodejs(unsigned char *buf, long long n) {
 #endif /* defined(__EMSCRIPTEN__) */
 
 
-void randombytes(unsigned char *buf, long long n)
+void randombytes(unsigned char *buf, unsigned long long n)
 {
 #if defined(__EMSCRIPTEN__)
 # pragma message("Using crypto api from NodeJS")
